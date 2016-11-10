@@ -8,5 +8,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/lfeh/dailylog/)
 ### november
 
 - [Day 10](log/2016-11-10.md) 
-	- Read: `frontend: web layout` `front: position sticky` `front: css architeture` `ux: better buttons`
-	- Did: `gym` `javascript course` 
+	- Read: `Less stress, more productivity: why working fewer hours is better for you and your employer`
+	- Did: `Dotz Happy Hour - Despedida Vitor` 
