@@ -13,4 +13,5 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/lfeh/dailylog/)
 	- Listen: `the mountain - hello world`
 
 - [Day 11](log/2016-11-11.md)
+	- Read: `criando sites estáticos extremamente performáticos`
 	- Listen: `ux – as experiências e frustrações`
