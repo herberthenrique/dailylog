@@ -8,5 +8,9 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/lfeh/dailylog/)
 ### november
 
 - [Day 10](log/2016-11-10.md) 
-	- Read: `Less stress, more productivity: why working fewer hours is better for you and your employer`
-	- Did: `Dotz Happy Hour - Despedida Vitor` 
+	- Read: `less stress, more productivity: why working fewer hours is better for you and your employer` `tooltips in ui design`
+	- Did: `Dotz Happy Hour - Despedida Vitor` `js-tdd course`
+	- Listen: `the mountain - hello world`
+
+- [Day 11](log/2016-11-11.md)
+	- Listen: `ux – as experiências e frustrações`
