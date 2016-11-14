@@ -16,3 +16,6 @@ Inspired by [Felipe Fialho - Daily Log](https://github.com/lfeh/dailylog/)
 	- Read: `criando sites estáticos extremamente performáticos`
 	- Listen: `ux – as experiências e frustrações`
 	- Did `es6 course` `boxe`
+
+- [Day 14](log/2016-11-14.md)
+	- Read `19 things i learnt reading the nodejs docs` `nosql databases: a survey and decision guidance` `o grande problema do recrutamento tech `
