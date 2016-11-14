@@ -1,6 +1,5 @@
 # A list of artcles that I'll read (eventually)
 
-- https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c#.9z000gwaj
 - https://medium.freecodecamp.com/code-dependencies-are-the-devil-35ed28b556d#.9zm6aavy8
 - https://medium.freecodecamp.com/how-to-build-your-own-uber-for-x-app-33237955e253#.eft6ptzgm
 - https://medium.com/the-mission/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7#.ptk9mb8xq
@@ -10,4 +9,3 @@
 - https://medium.com/art-of-practicality/7-productivity-apps-that-shave-10-hours-off-your-work-week-634604304763#.4u42dx6xi
 - https://medium.com/hi-my-name-is-jon/i-want-to-quit-right-now-1e59c4a6828a#.aadngewwi
 - https://medium.freecodecamp.com/code-briefing-the-state-of-javascript-in-2016-63d4af9a1091#.36uod43bq
-- https://medium.com/@jaydson/como-%C3%A9-ser-um-bom-desenvolvedor-em-2016-96f5395ed398#.6bgsuc742
